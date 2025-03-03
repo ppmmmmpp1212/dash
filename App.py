@@ -22,7 +22,7 @@ dashboard_urls = {
     "LinkAja TopUp": "https://lookerstudio.google.com/embed/reporting/4dd368aa-68c0-48c3-9e07-c4cef769d6a9/page/p_k6il67mwnd",
     "RS Produktif Manfee": "https://lookerstudio.google.com/embed/reporting/da0a0f51-6869-44b1-9fa8-473a02f6aa8b/page/p_k6il67mwnd",
     "Profit Loss 2025": "https://lookerstudio.google.com/embed/reporting/a4824fc2-1744-4871-a858-aae4addb1370/page/p_mnvum4bgfd",
-    "Chip Tracking": "https://mmppchiptracking.streamlit.app/"  # URL aplikasi Streamlit
+    "Chip Tracking": "https://m2p2dash.streamlit.app/"  # URL aplikasi Streamlit
 }
 
 # Pilih URL berdasarkan dashboard yang dipilih
