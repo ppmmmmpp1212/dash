@@ -7,7 +7,7 @@ st.set_page_config(page_icon="Screenshot 2025-02-20 153019.png", layout="wide")
 # Menu horizontal
 selected_dashboard = option_menu(
     menu_title=None,  
-    options=["LinkAja TopUp", "RS Produktif Manfee", "Chip Tracking"],
+    options=["LinkAja TopUp", "RS Produktif Manfee", "NGRS Reguler", "Chip Tracking"],
     icons=["1-circle", "2-circle", "3-circle", "4-circle"],  
     menu_icon="cast",
     default_index=0,
@@ -21,7 +21,7 @@ st.markdown("<hr style='border: 1px solid #ddd; margin: 10px 0;'>", unsafe_allow
 dashboard_urls = {
     "LinkAja TopUp": "https://lookerstudio.google.com/embed/reporting/4dd368aa-68c0-48c3-9e07-c4cef769d6a9/page/p_k6il67mwnd",
     "RS Produktif Manfee": "https://lookerstudio.google.com/embed/reporting/da0a0f51-6869-44b1-9fa8-473a02f6aa8b/page/p_k6il67mwnd",
-   
+    "NGRS Reguler" : "https://lookerstudio.google.com/embed/reporting/2eed58d7-2f08-44db-aa5e-0404a9fb4975/page/p_7j2804c5md",
     "Chip Tracking": "https://m2p2dash.streamlit.app/"  # URL aplikasi Streamlit
 }
 
